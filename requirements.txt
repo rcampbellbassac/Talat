@@ -1,0 +1,5 @@
+fonttools[ufo,woff]>=4.60
+pyclipper>=1.3
+booleanOperations>=0.9
+uharfbuzz>=0.50
+pillow>=11

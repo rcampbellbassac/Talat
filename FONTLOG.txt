@@ -1,0 +1,12 @@
+FONTLOG for Talat
+=================
+Talat (ຕະຫຼາດ) is a handwritten display font for Lao, Thai, Khmer and Latin.
+Licensed under the SIL Open Font License 1.1.
+
+Sources
+- Outlines derived from Noto Sans Lao / Lao Looped / Serif Lao, Noto Sans Thai / Thai Looped / Serif Thai,
+  Noto Sans Khmer / Serif Khmer and Noto Sans (Copyright 2022 The Noto Project Authors, SIL OFL 1.1, no Reserved Font Name).
+- Style inspired by Itim, Mali, Caveat (no outlines copied).
+
+ChangeLog
+2026-10-23 (0.100) First beta: generated with the fontlab-mcp pen engine.

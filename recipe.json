@@ -1,0 +1,27 @@
+{
+ "name": "Talat",
+ "slug": "Talat",
+ "native": "ຕະຫຼາດ",
+ "version": "0.100",
+ "cat": "handwritten",
+ "title": "Marker",
+ "insp": "Itim, Mali, Caveat",
+ "bases": {
+  "lao": "lao",
+  "thai": "thai",
+  "khmer": "khmer",
+  "latin": "latin"
+ },
+ "recipe": [
+  {
+   "op": "wobble",
+   "amp": 9,
+   "wave": 280
+  },
+  {
+   "op": "nib",
+   "shape": "round",
+   "w": 58
+  }
+ ]
+}
